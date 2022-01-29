@@ -42,3 +42,9 @@ https://en.wikipedia.org/wiki/Unit_type
 ### array
 
 > Arrays are useful when you want your data allocated on the stack rather than the heap or when you want to ensure you always have a fixed number of elements.
+
+## functions
+
+### statements and expressions
+
+> Statements are instructions that perform some action and do not return a value. Expressions evaluate to a resulting value. 
