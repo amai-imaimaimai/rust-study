@@ -48,3 +48,9 @@ https://en.wikipedia.org/wiki/Unit_type
 ### statements and expressions
 
 > Statements are instructions that perform some action and do not return a value. Expressions evaluate to a resulting value. 
+
+## control flow
+
+> One of the uses of a `loop` is to retry an operation you know might fail, such as checking whether a thread has completed its job.
+
+> Even in situations in which you want to run some code a certain number of times, most Rustaceans would use a `for` loop.
